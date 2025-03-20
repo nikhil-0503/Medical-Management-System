@@ -26,7 +26,7 @@ The **Medical Sales Management System** is a Python-based application with a Tki
 3. Clone or download this repository.
 4. Run the main script:
    ```sh
-   python main.py
+   python medical_system_v9.py
    ```
 
 ## Usage
